@@ -3,6 +3,6 @@
 Site para currículo com responsividade, tema light/dark mode 🌗 e opção de exportar em PDF 📄. Projeto feito com HTML, CSS e Javascript. 
 
 link para acesso ao curriculo
-https://alinenog.github.io/
+https://alinenog.github.io/ target= "_blank"
 
-Referência: [Bedimcode](https://www.youtube.com/c/Bedimcode)target= "_blank"
+Referência: [Bedimcode](https://www.youtube.com/c/Bedimcode)
